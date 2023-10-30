@@ -1,0 +1,16 @@
+// Estilos base
+
+@use './scss/base/base';
+@use './scss/base/reset';
+
+// Estilos de layout
+@use './scss/layout/layout';
+
+// Estilos de módulo
+@use './scss/module/menu';
+
+// Estilos de tema
+@use './scss/theme/theme';
+
+// Estilos de estado
+@use './scss/state/state';
